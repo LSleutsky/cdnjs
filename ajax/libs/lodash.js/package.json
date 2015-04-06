@@ -30,7 +30,7 @@
   "namespace": "_",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lodash/lodash.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/lodash.git",
     "basePath": "",
     "files": [
       "lodash.js",

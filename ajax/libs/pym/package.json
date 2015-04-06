@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nprapps/pym.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/pym.js.git",
     "basePath": "dist",
     "files": [
       "*"

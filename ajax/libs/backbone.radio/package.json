@@ -46,7 +46,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jmeas/backbone.radio.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/backbone.radio.git",
     "basePath": "build",
     "files": [
       "*"

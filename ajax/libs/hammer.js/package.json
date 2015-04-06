@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/EightMedia/hammer.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/hammer.js.git",
     "basePath": "",
     "files": [
       "hammer*"

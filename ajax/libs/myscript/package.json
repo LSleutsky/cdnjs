@@ -19,7 +19,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/MyScript/MyScriptJS.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/MyScriptJS.git",
     "basePath": "/dist/",
     "files": [
       "myscript.min.js",

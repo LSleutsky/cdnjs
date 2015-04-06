@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nodeca/js-yaml.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/js-yaml.git",
     "basePath": "dist",
     "files": [
       "*"

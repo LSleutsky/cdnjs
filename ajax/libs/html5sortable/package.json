@@ -31,7 +31,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/voidberg/html5sortable.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/html5sortable.git",
     "basePath": "dist",
     "files": [
       "*"

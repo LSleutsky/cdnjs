@@ -10,7 +10,7 @@
   "filename": "buckets.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mauriciosantos/buckets.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/buckets.git",
     "basePath": "",
     "files": [
       "buckets*.js"

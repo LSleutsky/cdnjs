@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/defunkt/jquery-pjax.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery-pjax.git",
     "basePath": "",
     "files": [
       "jquery.pjax.js"

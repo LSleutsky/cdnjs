@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/fastly/epoch.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/epoch.git",
     "basePath": "",
     "files": [
       "epoch.min.js",

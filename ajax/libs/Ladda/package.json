@@ -2,7 +2,7 @@
   "name": "Ladda",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hakimel/Ladda.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/Ladda.git",
     "basePath": "/dist/",
     "files": [
       "ladda-themeless.min.css",

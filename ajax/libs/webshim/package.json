@@ -41,7 +41,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/aFarkas/webshim.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/webshim.git",
     "basePath": "js-webshim",
     "files": [
       "*/*/*/*/*/*",

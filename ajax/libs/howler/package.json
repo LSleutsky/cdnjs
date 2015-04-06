@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/goldfire/howler.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/howler.js.git",
     "basePath": "",
     "files": [
       "howler.js",

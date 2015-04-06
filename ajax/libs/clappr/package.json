@@ -23,7 +23,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/globocom/clappr.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/clappr.git",
     "basePath": "dist",
     "files": [
       "*/*",

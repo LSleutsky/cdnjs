@@ -16,7 +16,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/linkedin/hopscotch.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/hopscotch.git",
     "basePath": "dist",
     "files": [
       "*/*"

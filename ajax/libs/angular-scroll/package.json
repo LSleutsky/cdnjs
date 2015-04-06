@@ -22,7 +22,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/oblador/angular-scroll.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/angular-scroll.git",
     "basePath": "",
     "files": [
       "angular-scroll.*"

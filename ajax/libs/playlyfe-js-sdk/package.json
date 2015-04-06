@@ -40,7 +40,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/playlyfe/playlyfe-js-sdk.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/playlyfe-js-sdk.git",
     "basePath": "/lib/",
     "files": [
       "playlyfe-js-sdk.js",

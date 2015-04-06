@@ -24,7 +24,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nvd3-community/nvd3.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/nvd3.git",
     "basePath": "build",
     "files": [
       "*"

@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/knsv/mermaid.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/mermaid.git",
     "basePath": "dist",
     "files": [
       "*"

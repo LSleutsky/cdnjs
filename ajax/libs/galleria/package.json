@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/aino/galleria.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/galleria.git",
     "basePath": "src/",
     "files": [
       "*/*/*.js",

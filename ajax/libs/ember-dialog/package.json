@@ -16,7 +16,7 @@
   "private": false,
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wheely/ember-dialog.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/ember-dialog.git",
     "basePath": "dist/",
     "files": [
       "ember.dialog.min.css",

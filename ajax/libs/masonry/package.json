@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/desandro/masonry.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/masonry.git",
     "basePath": "dist",
     "files": [
       "*"

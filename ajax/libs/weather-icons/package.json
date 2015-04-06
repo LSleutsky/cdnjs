@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/erikflowers/weather-icons.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/weather-icons.git",
     "basePath": "",
     "files": [
       "css/*.css",

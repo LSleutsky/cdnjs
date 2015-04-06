@@ -44,7 +44,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/pupunzi/jquery.mb.YTPlayer.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery.mb.YTPlayer.git",
     "basePath": "inc",
     "files": [
       "jquery.mb.YTPlayer.js"

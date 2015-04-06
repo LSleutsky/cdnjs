@@ -27,7 +27,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ksylvest/jquery-age.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery-age.git",
     "basePath": "/javascripts/",
     "files": [
       "jquery.age.js"

@@ -10,7 +10,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/esvit/ng-table.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/ng-table.git",
     "basePath": "",
     "files": [
       "ng-table.js",

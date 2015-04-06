@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/tuupola/jquery_lazyload.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery_lazyload.git",
     "basePath": "",
     "files": [
       "jquery.lazyload.*"

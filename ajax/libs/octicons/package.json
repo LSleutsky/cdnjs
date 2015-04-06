@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/github/octicons.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/octicons.git",
     "basePath": "octicons/",
     "files": [
       "*.ttf",

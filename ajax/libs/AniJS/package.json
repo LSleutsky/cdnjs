@@ -31,7 +31,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/anijs/anijs.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/anijs.git",
     "basePath": "dist/",
     "files": [
       "*/*/*",

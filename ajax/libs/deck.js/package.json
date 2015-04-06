@@ -27,7 +27,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/imakewebthings/deck.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/deck.js.git",
     "basePath": "",
     "files": [
       "core/*.css",

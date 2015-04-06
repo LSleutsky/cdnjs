@@ -34,7 +34,7 @@
   "filename": "riot.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/muut/riotjs.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/riotjs.git",
     "basePath": "",
     "files": [
       "riot.js",

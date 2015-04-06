@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/attila/savvior.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/savvior.git",
     "basePath": "dist",
     "files": [
       "*"

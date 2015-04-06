@@ -28,7 +28,7 @@
   "bugs": "https://github.com/FINRAOS/MSL/issues",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/FINRAOS/MSL.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/MSL.git",
     "basePath": "/msl-client-browser/",
     "files": [
       "appcontainer-driver.js",

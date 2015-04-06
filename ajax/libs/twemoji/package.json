@@ -30,7 +30,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/twitter/twemoji.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/twemoji.git",
     "basePath": "",
     "files": [
       "16x16/*",

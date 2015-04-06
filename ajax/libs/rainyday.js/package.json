@@ -33,7 +33,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/maroslaw/rainyday.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/rainyday.js.git",
     "basePath": "dist",
     "files": [
       "*"

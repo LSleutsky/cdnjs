@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/usablica/motion.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/motion.js.git",
     "basePath": "",
     "files": [
       "motion.js"

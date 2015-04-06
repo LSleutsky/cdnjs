@@ -41,7 +41,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-gantt/angular-gantt.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/angular-gantt.git",
     "basePath": "dist",
     "files": [
       "*"

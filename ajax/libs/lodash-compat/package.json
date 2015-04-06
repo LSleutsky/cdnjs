@@ -29,7 +29,7 @@
   "namespace": "_",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lodash/lodash-compat.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/lodash-compat.git",
     "basePath": "",
     "files": [
       "lodash.js",

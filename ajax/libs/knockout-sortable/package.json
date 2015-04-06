@@ -19,7 +19,7 @@
   "bugs": "https://github.com/rniemeyer/knockout-sortable/issues",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rniemeyer/knockout-sortable.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/knockout-sortable.git",
     "basePath": "build",
     "files": [
       "*"

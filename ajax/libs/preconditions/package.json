@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/anshulverma/conditional.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/conditional.git",
     "basePath": "dist",
     "files": [
       "preconditions.min.js"

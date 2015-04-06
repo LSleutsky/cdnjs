@@ -47,7 +47,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Mottie/tablesorter.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/tablesorter.git",
     "basePath": "",
     "files": [
       "js/*/*",

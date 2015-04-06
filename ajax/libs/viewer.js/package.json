@@ -57,7 +57,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/box/viewer.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/viewer.js.git",
     "basePath": "dist",
     "files": [
       "*"

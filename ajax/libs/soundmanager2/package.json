@@ -27,7 +27,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/scottschiller/SoundManager2.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/SoundManager2.git",
     "basePath": "",
     "files": [
       "script/soundmanager2.js",

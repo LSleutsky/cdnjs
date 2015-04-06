@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/NUKnightLab/TimelineJS.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/TimelineJS.git",
     "basePath": "build",
     "files": [
       "css/*/*/*",

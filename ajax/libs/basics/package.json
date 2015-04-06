@@ -10,7 +10,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/haydenbleasel/basics.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/basics.git",
     "basePath": "",
     "files": [
       "basics.css"

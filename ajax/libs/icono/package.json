@@ -43,7 +43,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/saeedalipoor/icono.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/icono.git",
     "basePath": "dist",
     "files": [
       "icono.min.css"

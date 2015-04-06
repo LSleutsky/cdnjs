@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/chriszarate/sheetrock.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/sheetrock.git",
     "basePath": "",
     "files": [
       "dist/jquery.sheetrock.min.js",

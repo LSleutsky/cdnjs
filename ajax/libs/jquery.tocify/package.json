@@ -17,7 +17,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/gfranko/jquery.tocify.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery.tocify.js.git",
     "basePath": "src",
     "files": [
       "stylesheets/*",

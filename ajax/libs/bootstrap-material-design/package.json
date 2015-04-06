@@ -33,7 +33,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/FezVrasta/bootstrap-material-design.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/bootstrap-material-design.git",
     "basePath": "dist",
     "files": [
       "css/*.css",

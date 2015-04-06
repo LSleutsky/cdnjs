@@ -31,7 +31,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hakimel/reveal.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/reveal.js.git",
     "basePath": "",
     "files": [
       "css/*/*.css",

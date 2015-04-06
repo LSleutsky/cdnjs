@@ -29,7 +29,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/uikit/bower-uikit.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/bower-uikit.git",
     "basePath": "",
     "files": [
       "css/*/*",

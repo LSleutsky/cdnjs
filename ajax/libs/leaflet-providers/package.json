@@ -31,7 +31,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/leaflet-extras/leaflet-providers.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/leaflet-providers.git",
     "basePath": "",
     "files": [
       "leaflet-providers*.js"

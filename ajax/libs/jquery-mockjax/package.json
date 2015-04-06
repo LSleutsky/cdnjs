@@ -32,7 +32,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/appendto/jquery-mockjax.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery-mockjax.git",
     "basePath": "",
     "files": [
       "jquery.mockjax*.js"

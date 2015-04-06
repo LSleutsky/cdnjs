@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/woothemes/FlexSlider.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/FlexSlider.git",
     "basepath": "",
     "files": [
       "flexslider.css",

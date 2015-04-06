@@ -22,7 +22,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HubSpot/shepherd.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/shepherd.git",
     "basePath": "",
     "files": [
       "shepherd.js",

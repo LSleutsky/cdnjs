@@ -37,7 +37,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/greensock/GreenSock-JS.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/GreenSock-JS.git",
     "basePath": "src/minified/",
     "files": [
       "*/*",

@@ -31,7 +31,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/masayuki0812/c3.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/c3.git",
     "basePath": "",
     "files": [
       "c3.css",

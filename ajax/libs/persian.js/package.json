@@ -44,7 +44,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/usablica/persian.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/persian.js.git",
     "basePath": "",
     "files": [
       "persian.min.js",

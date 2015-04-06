@@ -26,7 +26,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/blairvanderhoof/gist-embed.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/gist-embed.git",
     "basePath": "",
     "files": [
       "gist-embed.js"

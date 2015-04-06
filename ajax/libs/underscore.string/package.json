@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/epeli/underscore.string.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/underscore.string.git",
     "basePath": "dist",
     "files": [
       "*/*",

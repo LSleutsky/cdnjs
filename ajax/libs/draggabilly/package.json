@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/desandro/draggabilly.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/draggabilly.git",
     "basePath": "/dist/",
     "files": [
       "draggabilly.pkgd.js",

@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ComputerWolf/SlickNav.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/SlickNav.git",
     "basePath": "",
     "files": [
       "jquery.slicknav.js",

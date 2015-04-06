@@ -26,7 +26,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Eonasdan/bootstrap-datetimepicker.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/bootstrap-datetimepicker.git",
     "basePath": "build",
     "files": [
       "*/*"

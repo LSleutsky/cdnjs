@@ -30,7 +30,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mozilla/metrics-graphics.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/metrics-graphics.git",
     "basePath": "dist",
     "files": [
       "*"

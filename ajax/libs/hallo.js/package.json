@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bergie/hallo.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/hallo.git",
     "basePath": "dist",
     "files": [
       "*"

@@ -27,7 +27,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/brianreavis/selectize.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/selectize.js.git",
     "basePath": "dist",
     "files": [
       "css/*/*",

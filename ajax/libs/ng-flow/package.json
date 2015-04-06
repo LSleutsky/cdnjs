@@ -34,7 +34,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/flowjs/ng-flow.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/ng-flow.git",
     "basePath": "/dist/",
     "files": [
       "*.js"

@@ -38,7 +38,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-translate/bower-angular-translate-interpolation-messageformat.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/bower-angular-translate-interpolation-messageformat.git",
     "basePath": "",
     "files": [
       "*.js"

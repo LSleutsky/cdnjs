@@ -44,7 +44,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/BeSite/jQuery.dotdotdot.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jQuery.dotdotdot.git",
     "basePath": "src/js",
     "files": [
       "*.js"

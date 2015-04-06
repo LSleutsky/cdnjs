@@ -18,7 +18,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/imperavi/kube.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/kube.git",
     "basePath": "",
     "files": [
       "css/*",

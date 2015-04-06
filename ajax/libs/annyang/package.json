@@ -34,7 +34,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/TalAter/annyang.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/annyang.git",
     "basePath": "",
     "files": [
       "annyang.min.js",

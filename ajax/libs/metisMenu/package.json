@@ -30,7 +30,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/onokumus/metisMenu.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/metisMenu.git",
     "basePath": "/dist/",
     "files": [
       "*"

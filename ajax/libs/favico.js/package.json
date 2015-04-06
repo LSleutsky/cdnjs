@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ejci/favico.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/favico.js.git",
     "basePath": "",
     "files": [
       "favico.js"

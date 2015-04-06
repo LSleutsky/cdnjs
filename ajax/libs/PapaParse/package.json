@@ -38,7 +38,7 @@
   "filename": "papaparse.min.js",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mholt/PapaParse.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/PapaParse.git",
     "basePath": "",
     "files": [
       "papaparse.*"

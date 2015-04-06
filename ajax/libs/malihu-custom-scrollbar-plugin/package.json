@@ -37,7 +37,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/malihu/malihu-custom-scrollbar-plugin.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/malihu-custom-scrollbar-plugin.git",
     "basePath": "",
     "files": [
       "jquery.mCustomScrollbar.*",

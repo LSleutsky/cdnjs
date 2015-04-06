@@ -30,7 +30,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/ftlabs/fastclick.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/fastclick.git",
     "basePath": "lib",
     "files": [
       "*"

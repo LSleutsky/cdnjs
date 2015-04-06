@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/t4t5/sweetalert.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/sweetalert.git",
     "basePath": "lib/",
     "files": [
       "sweet-alert.min.js",

@@ -42,7 +42,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-ui/ui-sortable.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/ui-sortable.git",
     "basePath": "",
     "files": [
       "sortable.js",

@@ -89,7 +89,7 @@
   "license": "WTFPL",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lynndylanhurley/ng-token-auth.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/ng-token-auth.git",
     "basePath": "dist",
     "files": [
       "*"

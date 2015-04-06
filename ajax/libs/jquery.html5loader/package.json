@@ -14,7 +14,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/GianlucaGuarini/jquery.html5loader.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery.html5loader.git",
     "basePath": "src",
     "files": [
       "*.js",

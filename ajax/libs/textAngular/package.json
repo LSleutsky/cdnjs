@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/fraywing/textAngular.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/textAngular.git",
     "basePath": "",
     "files": [
       "src/*",

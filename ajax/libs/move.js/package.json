@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/visionmedia/move.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/move.js.git",
     "basePath": "",
     "files": [
       "move.min.js",

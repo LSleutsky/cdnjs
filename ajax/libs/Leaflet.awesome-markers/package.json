@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lvoogdt/Leaflet.awesome-markers.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/Leaflet.awesome-markers.git",
     "basePath": "dist/",
     "files": [
       "*/*",

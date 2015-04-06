@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wenzhixin/bootstrap-table.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/bootstrap-table.git",
     "basePath": "dist/",
     "files": [
       "*/*",

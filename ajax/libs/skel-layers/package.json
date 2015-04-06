@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/n33/skel-layers.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/skel-layers.git",
     "basePath": "dist",
     "files": [
       "skel-layers.min.js"

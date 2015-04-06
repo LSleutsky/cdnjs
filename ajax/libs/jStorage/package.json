@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/andris9/jStorage.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jStorage.git",
     "basePath": "",
     "files": [
       "jstorage.js",

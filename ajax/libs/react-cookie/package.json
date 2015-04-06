@@ -15,7 +15,7 @@
   "namespace": "reactCookie",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/eXon/react-cookie.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/react-cookie.git",
     "basePath": "dist",
     "files": [
       "*"

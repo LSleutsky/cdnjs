@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/daneden/Toast.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/Toast.git",
     "basePath": "css",
     "files": [
       "*"

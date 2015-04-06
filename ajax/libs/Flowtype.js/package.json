@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/simplefocus/FlowType.JS.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/FlowType.JS.git",
     "basePath": "",
     "files": [
       "flowtype.js"

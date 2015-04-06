@@ -14,7 +14,7 @@
   "bugs": "https://github.com/rackt/react-router/issues",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/rackt/react-router.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/react-router.git",
     "basePath": "/build/global",
     "files": [
       "*.js"

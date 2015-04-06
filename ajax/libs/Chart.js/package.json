@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nnnick/Chart.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/Chart.js.git",
     "basePath": "",
     "files": [
       "Chart.min.js",

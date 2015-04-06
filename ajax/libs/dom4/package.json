@@ -32,7 +32,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/WebReflection/dom4.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/dom4.git",
     "basePath": "/build/",
     "files": [
       "dom4.js",

@@ -32,7 +32,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/liabru/jquery-match-height.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery-match-height.git",
     "basePath": "",
     "files": [
       "jquery.matchHeight*.js"

@@ -33,7 +33,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/scottjehl/picturefill.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/picturefill.git",
     "basePath": "dist/",
     "files": [
       "*"

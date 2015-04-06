@@ -38,7 +38,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-ui/ui-select.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/ui-select.git",
     "basePath": "dist",
     "files": [
       "*"

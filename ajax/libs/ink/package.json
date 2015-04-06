@@ -19,7 +19,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sapo/Ink.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/Ink.git",
     "basePath": "dist/",
     "files": [
       "js/*",

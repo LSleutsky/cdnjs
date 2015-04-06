@@ -12,7 +12,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jzaefferer/jquery-validation.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery-validation.git",
     "basePath": "dist",
     "files": [
       "*"

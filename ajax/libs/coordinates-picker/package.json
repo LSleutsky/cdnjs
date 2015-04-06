@@ -31,7 +31,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/barinbritva/coordinates-picker.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/coordinates-picker.git",
     "basePath": "",
     "files": [
       "coordinates-picker.js",

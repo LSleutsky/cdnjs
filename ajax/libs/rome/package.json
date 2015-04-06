@@ -24,7 +24,7 @@
   "license": "MIT",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bevacqua/rome.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/rome.git",
     "basePath": "dist",
     "files": [
       "*"

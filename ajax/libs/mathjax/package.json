@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mathjax/MathJax.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/MathJax.git",
     "basePath": "",
     "files": [
       "config/*/*",

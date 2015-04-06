@@ -36,7 +36,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/mbostock/topojson.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/topojson.git",
     "basePath": "",
     "files": [
       "topojson.js"

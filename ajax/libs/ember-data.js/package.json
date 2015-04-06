@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/components/ember-data.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/ember-data.git",
     "basePath": "",
     "files": [
       "ember-data.min.js",

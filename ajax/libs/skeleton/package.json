@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/dhg/Skeleton.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/Skeleton.git",
     "basePath": "css",
     "files": [
       "skeleton*"

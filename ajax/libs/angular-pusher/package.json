@@ -11,7 +11,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/doowb/angular-pusher.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/angular-pusher.git",
     "basePath": "",
     "files": [
       "angular-pusher.js",

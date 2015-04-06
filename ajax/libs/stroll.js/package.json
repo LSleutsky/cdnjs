@@ -31,7 +31,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hakimel/stroll.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/stroll.js.git",
     "basePath": "",
     "files": [
       "css/stroll*",

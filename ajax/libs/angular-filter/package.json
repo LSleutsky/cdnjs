@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/a8m/angular-filter.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/angular-filter.git",
     "basePath": "/dist/",
     "files": [
       "*.js"

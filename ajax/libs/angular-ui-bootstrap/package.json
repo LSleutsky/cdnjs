@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/angular-ui/bootstrap-bower.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/bootstrap-bower.git",
     "basePath": "",
     "files": [
       "*.js"

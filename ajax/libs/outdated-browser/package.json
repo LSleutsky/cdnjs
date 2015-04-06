@@ -16,7 +16,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/burocratik/outdated-browser.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/outdated-browser.git",
     "basePath": "outdatedbrowser",
     "files": [
       "outdatedbrowser.css",

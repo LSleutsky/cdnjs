@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/HackerWins/summernote.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/summernote.git",
     "basePath": "dist",
     "files": [
       "*"

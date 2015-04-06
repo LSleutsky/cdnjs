@@ -75,7 +75,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/krux/postscribe.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/postscribe.git",
     "basePath": "dist",
     "files": [
       "*"

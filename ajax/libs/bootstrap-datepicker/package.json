@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/eternicode/bootstrap-datepicker.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/bootstrap-datepicker.git",
     "basePath": "dist",
     "files": [
       "*/*",

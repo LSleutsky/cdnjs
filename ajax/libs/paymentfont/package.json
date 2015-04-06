@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/vendocrat/PaymentFont.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/PaymentFont.git",
     "basePath": "",
     "files": [
       "css/*",

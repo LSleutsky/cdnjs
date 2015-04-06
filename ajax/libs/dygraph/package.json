@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/danvk/dygraphs.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/dygraphs.git",
     "basePath": "",
     "files": [
       "dygraph-combined.js",

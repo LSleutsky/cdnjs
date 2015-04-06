@@ -28,7 +28,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/bgrins/spectrum.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/spectrum.git",
     "basePath": "",
     "files": [
       "spectrum.css",

@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/agrublev/angularLocalStorage.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/angularLocalStorage.git",
     "basePath": "dist",
     "files": [
         "*"

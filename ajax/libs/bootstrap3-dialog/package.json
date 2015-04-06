@@ -39,7 +39,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/nakupanda/bootstrap3-dialog.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/bootstrap3-dialog.git",
     "basePath": "dist",
     "files": [
       "css/*",

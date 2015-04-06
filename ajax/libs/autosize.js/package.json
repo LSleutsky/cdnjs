@@ -32,7 +32,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/jackmoore/autosize.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/autosize.git",
     "basePath": "",
     "files": [
       "jquery.autosize.js",

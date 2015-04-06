@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/imakewebthings/jquery-waypoints.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery-waypoints.git",
     "basePath": "",
     "files": [
       "shortcuts/*/*.js",

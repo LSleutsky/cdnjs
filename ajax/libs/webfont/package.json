@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/typekit/webfontloader.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/webfontloader.git",
     "basePath": "",
     "files": [
       "*.js"

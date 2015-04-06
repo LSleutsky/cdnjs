@@ -23,7 +23,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wout/svg.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/svg.js.git",
     "basePath": "dist",
     "files": [
       "*"

@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Polymer/webcomponentsjs.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/webcomponentsjs.git",
     "basePath": "",
     "files": [
       "*.js",

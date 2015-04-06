@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/lorenzofox3/Smart-Table.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/Smart-Table.git",
     "basePath": "dist",
     "files": [
       "*"

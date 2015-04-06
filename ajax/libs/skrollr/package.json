@@ -30,7 +30,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Prinzhorn/skrollr.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/skrollr.git",
     "basePath": "dist/",
     "files": [
       "*/*",

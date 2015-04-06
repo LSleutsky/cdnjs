@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/emmaguo/angular-poller.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/angular-poller.git",
     "basePath": "",
     "files": [
       "angular-poller.js",

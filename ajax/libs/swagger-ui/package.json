@@ -25,7 +25,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/wordnik/swagger-ui.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/swagger-ui.git",
     "basePath": "dist/",
     "files": [
       "swagger-ui.*",

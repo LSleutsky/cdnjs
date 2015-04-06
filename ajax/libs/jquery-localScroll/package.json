@@ -31,7 +31,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/flesler/jquery.localScroll.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jquery.localScroll.git",
     "basePath": "",
     "files": [
       "*.js"

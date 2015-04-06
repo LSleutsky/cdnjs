@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/hydna/hydnajs.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/hydnajs.git",
     "basePath": "cdnjsdist",
     "files": [
       "bridge.swf",

@@ -14,7 +14,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/matthewhudson/device.js",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/device.js",
     "basePath": "/lib/",
     "files": [
       "*"

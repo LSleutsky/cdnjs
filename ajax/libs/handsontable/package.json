@@ -28,7 +28,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/handsontable/handsontable.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/handsontable.git",
     "basePath": "dist",
     "files": [
       "*.js",

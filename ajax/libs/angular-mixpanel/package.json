@@ -20,7 +20,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/kuhnza/angular-mixpanel.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/angular-mixpanel.git",
     "basePath": "dist",
     "files": [
       "angular-mixpanel.min.js"

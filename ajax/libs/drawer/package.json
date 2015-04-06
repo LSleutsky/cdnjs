@@ -13,7 +13,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/blivesta/drawer.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/drawer.git",
     "basePath": "dist",
     "files": [
       "*/*",

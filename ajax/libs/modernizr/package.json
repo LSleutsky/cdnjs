@@ -39,7 +39,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Modernizr/Modernizr.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/Modernizr.git",
     "basePath": "",
     "files": [
       "modernizr.js"

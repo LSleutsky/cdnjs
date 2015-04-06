@@ -14,7 +14,7 @@
   "bugs": "https://github.com/n3-charts/line-chart/issues",
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/n3-charts/line-chart.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/line-chart.git",
     "basePath": "dist",
     "files": [
       "*.js"

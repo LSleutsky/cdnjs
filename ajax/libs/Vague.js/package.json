@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/GianlucaGuarini/Vague.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/Vague.js.git",
     "basePath": "",
     "files": [
       "Vague.js"

@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/viljamis/responsive-nav.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/responsive-nav.js.git",
     "basePath": "",
     "files": [
       "responsive-nav.css",

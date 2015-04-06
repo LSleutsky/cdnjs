@@ -24,7 +24,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/morrisjs/morris.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/morris.js.git",
     "basePath": "",
     "files": [
       "morris.js",

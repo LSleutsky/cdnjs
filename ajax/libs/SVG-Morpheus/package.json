@@ -21,7 +21,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/alexk111/SVG-Morpheus.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/SVG-Morpheus.git",
     "basePath": "compile/minified/",
     "files": [
       "*"

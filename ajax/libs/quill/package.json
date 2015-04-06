@@ -30,7 +30,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/quilljs/quill.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/quill.git",
     "basePath": "dist",
     "files": [
       "*/*",

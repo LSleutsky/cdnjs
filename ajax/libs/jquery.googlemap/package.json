@@ -34,7 +34,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/Tilotiti/jQuery-Google-Map.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/jQuery-Google-Map.git",
     "basePath": "",
     "files": [
       "jquery.googlemap.*"

@@ -22,7 +22,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/sindresorhus/screenfull.js.git",
+    "target": "///home/s991533/cdnjs/git-auto-update-test/screenfull.js.git",
     "basePath": "dist",
     "files": [
       "*"
